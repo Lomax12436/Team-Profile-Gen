@@ -11,7 +11,6 @@ This application is used to create employee profiles to make it easier to locate
 Visual
 Installation
 Usage
-License
 Questions
 Installation
 Inquirer
